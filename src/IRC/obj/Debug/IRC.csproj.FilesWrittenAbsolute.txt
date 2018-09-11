@@ -1,0 +1,5 @@
+/root/loic/LOIC/src/IRC/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/root/loic/LOIC/src/bin/Debug/IRC.pdb
+/root/loic/LOIC/src/bin/Debug/IRC.dll
+/root/loic/LOIC/src/IRC/obj/Debug/IRC.dll
+/root/loic/LOIC/src/IRC/obj/Debug/IRC.pdb

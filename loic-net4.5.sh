@@ -1,6 +1,6 @@
 #!/bin/bash
-# Copyright © 2008 John Modica @ CybernetiX-S3C
-# Edited by NewEraCracker
+# Copyright © 2008 John Modica @ CybernetiX S3C
+# Edited by CybernetiX-S3C
 #
 # This script installs, updates and runs LOIC on Linux.
 #
@@ -11,12 +11,17 @@
 #
 # Usage: bash ubuntu_loic.bash <install|update|run>
 #
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+echo "deb https://download.mono-project.com/repo/debian vs-stretch main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list
+sudo apt update
+
 
 GIT_REPO=https://github.com/CybernetiX-S3C/LOIC.git
 GIT_BRANCH=master
 
-DEB_MONO_PKG="monodevelop liblog4net-cil-dev mono-devel mono-runtime-common mono-runtime libmono-system-windows-forms4.0-cil"
+DEB_MONO_PKG="apt-transport-https dirmngr monodevelop liblog4net-cil-dev mono-devel mono-runtime-common mono-runtime libmono-system$
 FED_MONO_PKG="mono-basic mono-devel monodevelop mono-tools"
+
 
 lower() {
     tr '[A-Z]' '[a-z]'

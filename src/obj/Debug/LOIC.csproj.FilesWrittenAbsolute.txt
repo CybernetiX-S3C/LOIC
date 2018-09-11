@@ -1,0 +1,13 @@
+/root/loic/LOIC/src/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/root/loic/LOIC/src/obj/Debug/LOIC.frmEZGrab.resources
+/root/loic/LOIC/src/obj/Debug/LOIC.frmMain.resources
+/root/loic/LOIC/src/obj/Debug/LOIC.frmEULA.resources
+/root/loic/LOIC/src/obj/Debug/LOIC.frmWtf.resources
+/root/loic/LOIC/src/obj/Debug/LOIC.Properties.Resources.resources
+/root/loic/LOIC/src/bin/Debug/LOIC.exe.config
+/root/loic/LOIC/src/bin/Debug/LOIC.pdb
+/root/loic/LOIC/src/bin/Debug/LOIC.exe
+/root/loic/LOIC/src/obj/Debug/LOIC.exe
+/root/loic/LOIC/src/obj/Debug/LOIC.pdb
+/root/loic/LOIC/src/bin/Debug/IRC.dll
+/root/loic/LOIC/src/bin/Debug/IRC.pdb
